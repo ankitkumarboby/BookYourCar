@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "555665905436",
+    "project_id": "bookyourcar-18669",
+    "storage_bucket": "bookyourcar-18669.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555665905436:android:f9779847df068b37494cd9",
+        "android_client_info": {
+          "package_name": "com.ankit_1107.project.bookyourcar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555665905436-t618atnvj4iko20nfoia007bvfvl94jr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ankit_1107.project.bookyourcar",
+            "certificate_hash": "2703829b64547cf1802769b2436167f9233cddef"
+          }
+        },
+        {
+          "client_id": "555665905436-hptoff78tjc48h575sp250friogct473.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVNFSAYzh7mkMKMu2f9kSYqLGvYKH1U-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555665905436-hptoff78tjc48h575sp250friogct473.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

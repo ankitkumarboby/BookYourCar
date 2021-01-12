@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">BookYourCar</string>
+    <string name="top_icon">TOP ICON</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">SIGN IN</string>
+    <string name="signup">SIGN UP</string>
+    <string name="forgot_password">FORGOT PASSWORD?</string>
+    <string name="or">OR</string>
+    <string name="google_icon">google icon</string>
+    <string name="facebook_icon">facebook icon</string>
+    <string name="new_user_register_now">New User? Register Now</string>
+    <string name="already_have_an_account">Already have an Account?</string>
+    <string name="person_name">Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="api_key">AIzaSyCme6UQBHhXUZCb7Eml3hdPMykIk-Ljhmc</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_lend_booking">LendBooking</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+
+</resources>
